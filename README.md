@@ -7,6 +7,8 @@ STRIPE
 3. Generate Publishable key and Secret key.
 4. Create a Customer on the dashboard too.
 5. You can use my keys and customerId for this example, no problem. There are copy on the projects.
+6. More information about Stripe Docs: https://docs.stripe.com/payments
+7. More information about Stripe Api: https://docs.stripe.com/api?lang=node
 
 BACKEND NODEJS APP
 1. cd StripeBackend
